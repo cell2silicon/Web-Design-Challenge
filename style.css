@@ -44,9 +44,3 @@ h1{
     width: 500px;
     height: 450px;
 }
-
-@media (max-width: 600px){
-    .vis{
-        float: left;
-    }
-}
