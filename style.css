@@ -1,17 +1,33 @@
 .lat{
     color: white !important;
-    padding: 5px;
-    background-color: aquamarine;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0;
+    background-color: rgba(133, 47, 16, 0.454);
+    font-family: fantasy;
+    font-size: 28px;
+}
+
+.nav-txt{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h1{
+
+    font-family: fantasy;
+    color: royalblue;
 }
 
 .img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .img1{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     float: left;
 }
 
